@@ -13,7 +13,7 @@ background.fill((255, 255, 255))
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 
-# 設定琴鍵基礎參數
+# 設定琴鍵位置
 
 
 def draw_black_key():
